@@ -1,6 +1,6 @@
 ## Использовал
 
-- PHP PHP 8.3.21
+- PHP 8.3.21
 - Yii2 2.0.53
 - NodeJS v22.15.0
 - Ratchet (cboden/ratchet) v0.4.4
